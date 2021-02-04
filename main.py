@@ -1,0 +1,1 @@
+print('i love smashing my keyboard!')
